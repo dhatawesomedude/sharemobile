@@ -1,0 +1,20 @@
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes.dex : \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\BuildConfig.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\R$attr.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\R$drawable.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\R$string.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\R$xml.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\R.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\com\ionicframework\sharemobile173296\sharemobile.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$1.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$2.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing$SocialSharingRunnable.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\nl\xservices\plugins\SocialSharing.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\org\apache\cordova\screenshot\Screenshot$1.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\org\apache\cordova\screenshot\Screenshot$2.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\classes\org\apache\cordova\screenshot\Screenshot.class \
+C:\Users\Orlando\SkyDrive\nodecode\sharemobile\platforms\android\ant-build\dexedLibs\classes-b994b182198afb3460c43babd04102ce.jar \
