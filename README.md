@@ -1,6 +1,6 @@
-Ionic App Base
+Ionic Android app
 =====================
 
-A demo android project using ionic
+A demo android project using ionic and cordova
 
 ## Using this project
