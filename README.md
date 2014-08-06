@@ -6,10 +6,9 @@ A demo android project using ionic and cordova
 #Using this project
 *   Make sure you have Node.js installed.
 *   install cordova `npm install -g cordova`
-*   install ionic, set platform and run.
-    `npm install -g ionic
-     ionic start sharemobile
-     cd sharemobile
-     ionic platform android
-     ionic build android
-     ionic run android`
+*   install ionic.
+    `npm install -g ionic`
+*   install socialSharing plugin 
+    `cordova plugin add https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git`
+*   Connect android phone and run android run android.
+     `ionic run android`
